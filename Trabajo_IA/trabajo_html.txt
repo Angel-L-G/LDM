@@ -1,0 +1,4 @@
+header nav main y footer
+imagenes y contenido en carpeta aparte
+3-4 enlaces en nav hacia main
+falta cambiar los </br> a -> <br/>
